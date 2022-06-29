@@ -37,7 +37,7 @@ function runApp () {
       }
     })
   }
-// OOP Functions
+
 
 function addManager() {
   inquirer.prompt ([
